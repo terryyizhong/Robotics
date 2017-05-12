@@ -11,3 +11,11 @@ representing the start and goal configurations.
 (180, 23), (274, 46), (225, 97), (212, 61), (148, 83)  
 (100, 90), (290, 60).  
 The figure below shows the environment and the configurations x I and x G   
+
+As the output, for each input file, each of your algorithms will output two items: a graph and the  
+solution path. The graph should be written down as a list of vertices with integer IDs, and a list  
+of edges based on these IDs, e.g., the following is a triangle graph  
+1 : (20, 35), 2 : (55, 80), 3 : (40, 100)  
+(1, 2), (1, 3), (2, 3)  
+And the path should be written out as a list of vertices. The graph and the output paths should be  
+written as three lines in an output file.  
