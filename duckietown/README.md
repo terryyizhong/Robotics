@@ -1,6 +1,6 @@
 # lab session of robotic course.
-robot we used is duckietown mit  
-the environment established by chilitag. https://github.com/chili-epfl/chilitags  
+## robot we used is duckietown mit  
+## the environment established by chilitag. https://github.com/chili-epfl/chilitags  
 
 We modified estimated3d to detect environment and do following things:
 
